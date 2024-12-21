@@ -1,10 +1,9 @@
 ### Hi there, I'm Alfiya Sayyad!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/varunpoojari50/))
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)]((https://twitter.com/itsVarunPujary))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]((https://https://www.linkedin.com/in/alfiya-sayyad-b47b081a7//))
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)]((https://x.com/AlfiyaSayyadd))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thevarunpujari/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)]()
-[![MonekyType Badge](https://img.shields.io/badge/MonkeyType-Typing.Stats-rebeccapurple&?style=for-the-badge&logo=appveyor)]()
+
 
 
 
@@ -16,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
 - 👨 My Hobbies are Swimming, Trekking and Travelling!;
 - 🚀 I’m currently learning Cybersecurity;
-- 📫 To contact or Know more about me, Visit [My Website](https://bento.me/varunpoojari)
+- 📫 To contact or Know more about me, Visit [My Website](https://bento.me/alfiyasayyad)
 
 
 </br>
